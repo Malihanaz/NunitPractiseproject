@@ -1,0 +1,11 @@
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\bin\Debug\net6.0\SchoolLib.deps.json
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\bin\Debug\net6.0\SchoolLib.dll
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\bin\Debug\net6.0\SchoolLib.pdb
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\SchoolLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfoInputs.cache
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfo.cs
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\SchoolLib.csproj.CoreCompileInputs.cache
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\SchoolLib.dll
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\refint\SchoolLib.dll
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\SchoolLib.pdb
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolLib\obj\Debug\net6.0\ref\SchoolLib.dll

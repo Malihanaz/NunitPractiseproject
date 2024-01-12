@@ -1,0 +1,2 @@
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolDataTest\obj\Debug\SchoolDataTest.csproj.AssemblyReference.cache
+D:\simplilearn phase4\PractiseProject\SchoolLib\SchoolDataTest\obj\Debug\SchoolDataTest.csproj.CoreCompileInputs.cache
